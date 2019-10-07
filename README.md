@@ -1,6 +1,8 @@
 # Console based banking system ( Version 1.0 )
 
-```This was my fifth semester's Lab Task at Bahria University Islamabad assigned by Prof. Ghulam Ali Mirza in the course of Visual Programming.```
+```
+This was my fifth semester's Lab Task at Bahria University Islamabad assigned by Prof. Ghulam Ali Mirza in the course of Visual Programming.
+```
 
 ## Key Features
 
