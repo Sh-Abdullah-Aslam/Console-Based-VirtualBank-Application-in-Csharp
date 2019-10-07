@@ -32,10 +32,10 @@
 ## Explaination of files used
 
 ~~~
-  01. CurrentAccounts.txt       To store CurrentAccounts info           (AccountNo, Name, Cnic, Balance, WithdrawalLimit)
-  02. SavingAccounts.txt        To store SavingAccounts info            (AccountNo, Name, Cnic, Balance, ProfitPercentage)
-  03. AtmDetails.txt            To store ATM card details               (AccountNo, Pin)
-  04. Transactions.txt          To store all the CurrentAccounts info   (AccountNo, Amount, AccountType, DateOfTransaction)
+  01. CurrentAccounts.txt       Stores CurrentAccounts info              (AccountNo, Name, Cnic, Balance, WithdrawalLimit)
+  02. SavingAccounts.txt        Storer SavingAccounts info               (AccountNo, Name, Cnic, Balance, ProfitPercentage)
+  03. AtmDetails.txt            Stores ATM cards details                 (AccountNo, Pin)
+  04. Transactions.txt          Stores the transactions details          (AccountNo, Amount, AccountType, DateOfTransaction)
   05. TransactionReports/*.txt  The report that is generated after every transaction
 ~~~
 
