@@ -54,4 +54,4 @@
   - Followed by a space
   - And the name ends with the Time Meridian
 
-# Open for reuse (with or without) editing but cite my work and fork me on Github [VirtualBank](https://github.com/Sh-Abdullah-Aslam/VP_Lab_VirtualBank).
+# Open for reuse (with or without) editing but cite my work and fork me on Github [VirtualBank](https://github.com/Sh-Abdullah-Aslam/Console-Based-VirtualBank-Application-in-Csharp).
