@@ -58,4 +58,4 @@ This was my fifth semester's Lab Task at Bahria University Islamabad assigned by
   - Followed by a space
   - And the name ends with the Time Meridian
 
-# Open for reuse (with or without) editing but cite my work and fork me on Github [VirtualBank](https://github.com/Sh-Abdullah-Aslam/Console-Based-VirtualBank-Application-in-Csharp).
+# Open for reuse (with or without) editing but cite my work [and|or] fork me on Github [VirtualBank](https://github.com/Sh-Abdullah-Aslam/Console-Based-VirtualBank-Application-in-Csharp).
